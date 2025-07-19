@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/CODE/demo/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -DYAML_CPP_STATIC_DEFINE @CMakeFiles/demo.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\demo.dir\\src\\main.cpp.obj -c D:\\CODE\\demo\\src\\main.cpp",
+  "file": "D:/CODE/demo/src/main.cpp"
+}
+]
